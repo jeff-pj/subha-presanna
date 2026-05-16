@@ -77,7 +77,7 @@ function Navbar() {
           />
 
           {/* Right Social Icons */}
-              <div className="flex items-center gap-4 text-gray-700">
+              {/* <div className="flex items-center gap-4 text-gray-700">
             <Link href="https://www.instagram.com/levisrich?igsh=MWVvdDN1cnMwa2RtZw=="       target="_blank"
         rel="noopener noreferrer" aria-label="Facebook">
               <FaFacebookSquare className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
@@ -86,7 +86,7 @@ function Navbar() {
         rel="noopener noreferrer" aria-label="Instagram">
               <FaInstagram className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>
-          </div>
+          </div> */}
 
         </nav>
       </div>
@@ -105,7 +105,7 @@ function Navbar() {
           />
 
           {/* Right Social Icons */}
-          <div className="flex items-center gap-4 text-gray-700">
+          {/* <div className="flex items-center gap-4 text-gray-700">
             <Link href="https://www.instagram.com/levisrich?igsh=MWVvdDN1cnMwa2RtZw=="       target="_blank"
         rel="noopener noreferrer" aria-label="Facebook">
               <FaFacebookSquare className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
@@ -114,7 +114,7 @@ function Navbar() {
         rel="noopener noreferrer" aria-label="Instagram">
               <FaInstagram className="text-xl hover:text-[#c59d5f] transition cursor-pointer" />
             </Link>
-          </div>
+          </div> */}
 
         </nav>
       </div>
