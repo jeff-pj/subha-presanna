@@ -63,7 +63,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -89,7 +89,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="  "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -115,7 +115,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -188,7 +188,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -214,7 +214,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="  "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -240,7 +240,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 border border-pink-400 text-pink-400 rounded-full text-[1vw] font-medium hover:bg-pink-400 hover:text-white transition"
@@ -315,7 +315,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -340,7 +340,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="  "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -365,7 +365,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -440,7 +440,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1K4Ex3x8zYcCeAWrpTWntR2FxDgN6S3dr?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -465,7 +465,7 @@ export default function Page() {
      
 
       <Link
-        href="https://drive.google.com/drive/folders/1in0bCvCxY1xSrUOIjl_XgjU3ZB84Xh9P?usp=sharing"
+        href="  "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
@@ -490,7 +490,7 @@ export default function Page() {
   
 
       <Link
-        href="https://drive.google.com/drive/folders/1YEYmAxy89fjWHd9DEmK7yF77eOQZZP2w?usp=sharing"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 w-full py-2 text-center border border-pink-400  text-pink-400  rounded-full text-[4vw] font-medium hover:bg-pink-400  hover:text-white transition"
